@@ -11,3 +11,5 @@
 - 3.以下为使用的美术素材来源：
     1.[背景图片](https://wallhaven.cc/w/28p296)
     2.[tips的表情包](https://www.gamekee.com/ba/605400.html)
+## 4.支持我
+[bilibili](https://space.bilibili.com/1863500961/)
