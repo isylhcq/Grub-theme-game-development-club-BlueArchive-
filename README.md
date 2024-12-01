@@ -3,6 +3,7 @@
 - 1.The grub theme is about Game Development Club which from the game Blue Archive.
 - 1.这是一个关于游戏开发部的grub主题，来自游戏《Blue Archive》
 - 2.本项目参考了[GameDevClub-GRUB-Theme](https://github.com/Machillka/GameDevClub-GRUB-Theme)
+- 3.[哔哩哔哩视频介绍](https://www.bilibili.com/video/BV18FzpYSEHQ/)
 ## 2.预览(Preview)
 ![image](background.png)
 ## 3.安装方式(Installation)
@@ -31,4 +32,4 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg #Arch
 1.[背景图片](https://wallhaven.cc/w/28p296)
 2.[tips的表情包](https://www.gamekee.com/ba/605400.html)
 ## 5.支持我(Support me)
-[bilibili](https://space.bilibili.com/1863500961/)
+[bilibili](https://www.bilibili.com/video/BV18FzpYSEHQ/)
